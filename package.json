@@ -1,0 +1,23 @@
+{
+  "name": "halo-collar-amp",
+  "version": "1.0.0",
+  "description": "N/A",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/da-022412/halo-collar-amp.git"
+  },
+  "author": "Dennis Acosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/da-022412/halo-collar-amp/issues"
+  },
+  "homepage": "https://github.com/da-022412/halo-collar-amp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
