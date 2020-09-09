@@ -1,0 +1,11 @@
+@import "colors";
+@import "hero";
+@import "quick-flex";
+
+.wrap {
+    width: 100%;
+    max-width: $screen-xl;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 0 space(4);
+}

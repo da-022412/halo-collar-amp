@@ -1,0 +1,19 @@
+.flex-v {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+}
+
+
+.flex-h {
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+}
+
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
