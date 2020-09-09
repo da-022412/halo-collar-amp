@@ -1,3 +1,13 @@
 ul {
-    list-style-image: url("assets/images/check_circle-24px.svg");
+    list-style: none;
+    padding: 0;
+}
+
+
+li {
+    background: url("../assets/images/check_circle-24px.svg") left center no-repeat;
+    font-family: $open-sans;
+    line-height: 1.15em;
+    margin-bottom: 1em;
+    padding-left: 28px;
 }

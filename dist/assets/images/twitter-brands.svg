@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   aria-hidden="true"
+   focusable="false"
+   data-prefix="fab"
+   data-icon="twitter"
+   class="svg-inline--fa fa-twitter fa-w-16"
+   role="img"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg865"
+   sodipodi:docname="twitter-brands (1).svg"
+   width="32"
+   height="32"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata871">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs869" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1696"
+     inkscape:window-height="1344"
+     id="namedview867"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="8.9140625"
+     inkscape:cx="15.195442"
+     inkscape:cy="3.7738771"
+     inkscape:window-x="16"
+     inkscape:window-y="43"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg865" />
+  <g
+     id="g877"
+     transform="translate(-903.66882,-370.84897)">
+    <circle
+       r="16"
+       cy="386.84897"
+       cx="919.66882"
+       id="path873"
+       style="opacity:1;vector-effect:none;fill:#00aced;fill-opacity:1;stroke:none;stroke-width:3.3087635;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="fill:#ffffff;stroke-width:0.0438174"
+       inkscape:connector-curvature="0"
+       id="path863"
+       d="m 928.58003,382.27951 c 0.0142,0.19929 0.0142,0.39861 0.0142,0.5979 0,6.07835 -4.62636,13.08203 -13.08203,13.08203 -2.60504,0 -5.02497,-0.7545 -7.0606,-2.06406 0.37012,0.0427 0.72596,0.0569 1.11033,0.0569 2.14947,0 4.12816,-0.72597 5.70827,-1.96443 -2.02139,-0.0428 -3.71537,-1.36657 -4.29902,-3.18867 0.28473,0.0427 0.56941,0.0711 0.86838,0.0711 0.41281,0 0.82565,-0.057 1.20997,-0.15656 -2.10679,-0.42708 -3.68692,-2.27763 -3.68692,-4.51253 v -0.0569 c 0.61208,0.34165 1.3239,0.55517 2.0783,0.5836 -1.23846,-0.82565 -2.04983,-2.23491 -2.04983,-3.82925 0,-0.85408 0.22773,-1.63701 0.62633,-2.32031 2.26339,2.79009 5.66559,4.61214 9.48055,4.81146 -0.0711,-0.34164 -0.11387,-0.69748 -0.11387,-1.05337 0,-2.53387 2.04986,-4.59793 4.59792,-4.59793 1.32386,0 2.51959,0.55517 3.35949,1.45198 1.03912,-0.19928 2.03558,-0.58365 2.9182,-1.11034 -0.3417,1.06766 -1.06766,1.96447 -2.02139,2.53383 0.92529,-0.0996 1.82209,-0.35589 2.6477,-0.71173 -0.62623,0.91101 -1.40921,1.72238 -2.30602,2.37723 z" />
+  </g>
+</svg>

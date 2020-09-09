@@ -6,9 +6,10 @@ h5,
 h6 {
     clear: both;
     color: $black;
-    font-family: 'Open Sans', Helvetica, Arial, Lucida, sans-serif;
+    font-family: $open-sans;
     line-height: 1em;
     padding-bottom: 10px;
+    text-shadow: 0em 0em 0.3em #f9f9f9;
 }
 
 
@@ -24,4 +25,5 @@ h3 {
 
 h4 {
     font-size: 16px;
+    line-height: 1.7em;
 }
