@@ -1,0 +1,64 @@
+.tables {
+    background-image: url("../assets/images/08b.png");
+    background-position: center center;
+    background-size: cover;
+    padding: 0 30px;
+}
+
+.table {
+    background-color: #fff;
+    border-radius: 30px;
+    box-shadow: 6px 12px 30px -6px #d8d8d8;
+    margin-bottom: 30px;
+    padding: 12px;
+}
+
+
+.table__header {
+    h2 {
+        font-size: 60px;
+        font-weight: 800;
+        margin: 0;
+    }
+}
+
+
+#basic {
+    h2 {
+        color: $secondary;
+    }
+}
+
+
+#silver {
+    .cancel {
+        li {
+            background: url("../assets/images/cancel-24px.svg") left center no-repeat;
+            background-size: 15px;
+        }
+    }
+
+
+    h2 {
+        color: $aqua;
+    }
+
+
+    li {
+        background: url("../assets/images/check_circle-aqua-24px.svg") left center no-repeat;
+        background-size: 15px;
+    }
+}
+
+
+#gold {
+    h2 {
+        color: $primary;
+    }
+
+
+    li {
+        background: url("../assets/images/check_circle-gold-24px.svg") left center no-repeat;
+        background-size: 15px;
+    }
+}

@@ -1,0 +1,37 @@
+footer {
+    background-color: $black;
+
+
+    h4 {
+        margin: 12px 0;
+        text-transform: uppercase;
+    }
+
+
+    li {
+        background: none;
+        font-size: 15px;
+        padding-left: 0;
+    }
+}
+
+
+.email {
+    background: url("../assets/images/email-24px.svg") left top no-repeat;
+    background-size: 15px;
+    padding-left: 40px;
+}
+
+
+.map {
+    background: url("../assets/images/location_on-24px.svg") left top no-repeat;
+    background-size: 15px;
+    padding-left: 40px;
+}
+
+
+.social {
+    figure {
+        margin-right: 8px;
+    }
+}

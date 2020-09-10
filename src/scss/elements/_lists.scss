@@ -5,9 +5,18 @@ ul {
 
 
 li {
-    background: url("../assets/images/check_circle-24px.svg") left center no-repeat;
+    background: url("../assets/images/check_circle-24px.svg") left top no-repeat;
+    background-size: 15px;
     font-family: $open-sans;
-    line-height: 1.15em;
+    font-size: 12px;
+    line-height: 1.25em;
     margin-bottom: 1em;
-    padding-left: 28px;
+    padding-left: 20px;
+}
+
+.cancel {
+    li {
+        background: url("../assets/images/cancel-24px.svg") left top no-repeat;
+        background-size: 15px;
+    }
 }
