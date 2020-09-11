@@ -9,12 +9,23 @@ button {
     text-transform: uppercase;
     padding: 15px 26px;
     width: 180px;
+    box-sizing: content-box;
+    -webkit-appearance: none;
 }
 
 
 button.form__submit {
     background-color: $black;
     box-shadow: none;
-    padding: 14px 4%;
-    width: 220px;
+    padding: 14px 12px;
+    width: 80%;
+}
+
+
+.button__secondary {
+    background-color: transparent;
+    border: 1px solid $black;
+    box-shadow: none;
+    padding: 10px 20px;
+    width: auto;
 }

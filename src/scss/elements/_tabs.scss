@@ -86,15 +86,14 @@ amp-selector.tabpanels [role=tabpanel][selected] {
 }
 
 
-#tab1,
-#tab2 {
-    width: 100%;
-}
-
-
 #tab1 h3,
 #tab2 h3 {
     margin-bottom: 10px;
     margin-top: 10px;
     padding: 0;
+}
+
+
+.tabs {
+    background: $grey;
 }

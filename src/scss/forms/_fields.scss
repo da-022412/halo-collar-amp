@@ -1,4 +1,15 @@
 input {
-    padding: 14px 4%;
-    width: 220px;
+    border: none;
+    border-radius: 30px;
+    margin: 8px 0;
+    padding: 14px 12px;
+    width: 80%;
+    -webkit-appearance: none;
+}
+
+
+fieldset {
+    border: none;
+    margin: 0;
+    padding: 0;
 }

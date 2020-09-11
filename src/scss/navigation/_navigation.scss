@@ -1,2 +1,34 @@
 @import "footer";
 @import "links";
+
+
+header {
+    align-items: center;
+    background-color: rgba(255,255,255,.85);
+    justify-content: space-around;
+    padding: 16px 0;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: 9999;
+}
+
+
+#top-menu {
+    background-color: #fff;
+    border-top: 3px solid $primary;
+    border-bottom: 3px solid $primary;
+    position: fixed;
+    padding: 12px 24px 24px;
+    width: 100%;
+    transform: translate(0, 72px);
+    z-index: 999;
+
+
+    li {
+        background-image: none;
+        border-bottom: 1px solid rgba(0,0,0,.03);
+        font-size: 16px;
+        padding: 10px 0;
+    }
+}

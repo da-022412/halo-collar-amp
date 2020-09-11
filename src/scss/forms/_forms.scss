@@ -1,2 +1,12 @@
 @import "buttons";
 @import "fields";
+
+
+.form {
+    background-color: $aqua;
+
+
+    h1, p {
+        text-shadow: none;
+    }
+}
