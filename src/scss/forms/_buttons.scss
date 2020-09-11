@@ -10,3 +10,11 @@ button {
     padding: 15px 26px;
     width: 180px;
 }
+
+
+button.form__submit {
+    background-color: $black;
+    box-shadow: none;
+    padding: 14px 4%;
+    width: 220px;
+}

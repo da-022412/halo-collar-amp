@@ -99,6 +99,18 @@ button {
   width: 180px;
 }
 
+button.form__submit {
+  background-color: #424242;
+  box-shadow: none;
+  padding: 14px 4%;
+  width: 220px;
+}
+
+input {
+  padding: 14px 4%;
+  width: 220px;
+}
+
 /*--------------------------------------------
 # Navigation
 --------------------------------------------*/
