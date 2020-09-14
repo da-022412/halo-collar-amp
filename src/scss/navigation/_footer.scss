@@ -16,20 +16,26 @@ footer {
     li {
         background: none;
         font-size: 15px;
+        margin-left: 0;
         padding-left: 0;
+
+
+        &:before {
+            display: none;
+        }
     }
 }
 
 
 .email {
-    background: url("../assets/images/email-24px.svg") left top no-repeat;
+    background: url("https://fdb0264d7d6d3e750f80-5dc7f69d18cbbff7d743ef3a1b39cf36.ssl.cf5.rackcdn.com/wp-content/uploads/2020/01/group-11.png") left top no-repeat;
     background-size: 15px;
     padding-left: 40px;
 }
 
 
 .map {
-    background: url("../assets/images/location_on-24px.svg") left top no-repeat;
+    background: url("https://fdb0264d7d6d3e750f80-5dc7f69d18cbbff7d743ef3a1b39cf36.ssl.cf5.rackcdn.com/wp-content/uploads/2020/01/group-13.png") left top no-repeat;
     background-size: 15px;
     padding-left: 40px;
 }

@@ -5,18 +5,29 @@ ul {
 
 
 li {
-    background: url("../assets/images/check_circle-24px.svg") left top no-repeat;
-    background-size: 15px;
     font-family: $open-sans;
     font-size: 12px;
     line-height: 1.25em;
+    list-style: none;
+    margin: 0 1em;
     margin-bottom: 1em;
-    padding-left: 20px;
+
+
+    &:before {
+        color: $secondary;
+        content: "\e052";
+        font-family: "ETMODULES";
+    }
 }
 
 .cancel {
     li {
-        background: url("../assets/images/cancel-24px.svg") left top no-repeat;
-        background-size: 15px;
+        list-style: none;
+
+
+        &:before {
+            color: #b5b5b5;
+            content: "\e051";
+        }
     }
 }

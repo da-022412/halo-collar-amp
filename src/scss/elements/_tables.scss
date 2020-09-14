@@ -1,6 +1,7 @@
 .tables {
     background-image: url("https://fdb0264d7d6d3e750f80-5dc7f69d18cbbff7d743ef3a1b39cf36.ssl.cf5.rackcdn.com/wp-content/uploads/2020/02/08b.png");
     background-position: center center;
+    background-repeat: no-repeat;
     background-size: cover;
     padding: 0 30px;
 }
@@ -31,22 +32,15 @@
 
 
 #silver {
-    .cancel {
-        li {
-            background: url("../assets/images/cancel-24px.svg") left center no-repeat;
-            background-size: 15px;
-        }
-    }
-
-
     h2 {
         color: $aqua;
     }
 
 
     li {
-        background: url("../assets/images/check_circle-aqua-24px.svg") left center no-repeat;
-        background-size: 15px;
+        &:before {
+            color: $aqua;
+        }
     }
 }
 
@@ -58,7 +52,8 @@
 
 
     li {
-        background: url("../assets/images/check_circle-gold-24px.svg") left center no-repeat;
-        background-size: 15px;
+        &:before {
+            color: $primary;
+        }
     }
 }
