@@ -5,6 +5,15 @@
 @import "hero";
 
 
+.wrap {
+    width: 100%;
+    max-width: $screen-xl;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 40px;
+}
+
+
 .mrgBtm-0 {
     margin-bottom: 0;
 }
@@ -24,10 +33,3 @@
     margin-top: 30px;
 }
 
-.wrap {
-    width: 100%;
-    max-width: $screen-xl;
-    margin: auto;
-    box-sizing: border-box;
-    padding: 40px;
-}
