@@ -1,11 +1,12 @@
 @media(min-width:$screen-md){
     .columns {
         flex-direction: row;
+        height: auto;
     }
 
 
-    .col-1-6 {
-        width: 12.0833%;
+    .col-1-2 {
+        width: 47.25%;
         margin-right: 5.5%;
 
 
@@ -24,4 +25,28 @@
             margin-right: 0;
         }
     }
+
+
+    .col-1-4 {
+        width: 20.875%;
+        margin-right: 5.5%;
+
+
+        &:last-child {
+            margin-right: 0;
+        }
+    }
+
+
+
+    .col-1-6 {
+        width: 12.0833%;
+        margin-right: 5.5%;
+
+
+        &:last-child {
+            margin-right: 0;
+        }
+    }
+
 }

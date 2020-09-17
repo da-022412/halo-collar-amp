@@ -5,29 +5,45 @@ ul {
 
 
 li {
+    background: url("https://amp.halocollar.com/wp-content/uploads/2020/09/check_circle-24px.svg") no-repeat left top;
+    background-size: 16px;
     font-family: $open-sans;
     font-size: 12px;
     line-height: 1.25em;
     list-style: none;
     margin: 0 1em;
     margin-bottom: 1em;
+    padding-left: 20px;
+}
 
 
-    &:before {
-        color: $secondary;
-        content: "\e052";
-        font-family: "ETMODULES";
+#silver {
+    li {
+        background: url("https://amp.halocollar.com/wp-content/uploads/2020/09/check_circle-aqua-24px.svg") no-repeat left top;
+        background-size: 16px;
+    }
+
+
+    .cancel {
+        li {
+            background: url("https://amp.halocollar.com/wp-content/uploads/2020/09/cancel-24px.svg") no-repeat left top;
+            background-size: 16px;
+        }
     }
 }
 
+
+#gold {
+    li {
+        background: url("https://amp.halocollar.com/wp-content/uploads/2020/09/check_circle-gold-24px.svg") no-repeat left top;
+        background-size: 16px;
+    }
+}
+
+
 .cancel {
     li {
-        list-style: none;
-
-
-        &:before {
-            color: #b5b5b5;
-            content: "\e051";
-        }
+        background: url("https://amp.halocollar.com/wp-content/uploads/2020/09/cancel-24px.svg") no-repeat left top;
+        background-size: 16px;
     }
 }

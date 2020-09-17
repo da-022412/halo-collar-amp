@@ -8,6 +8,7 @@
     font-family: $open-sans;
     font-size: 12px;
     font-weight: 600;
+    margin: 12px 0;
     text-align: center;
     text-transform: uppercase;
     padding: 15px 26px;
@@ -31,5 +32,11 @@ button.form__submit {
     border: 1px solid $black;
     box-shadow: none;
     padding: 10px 20px;
+}
+
+
+.button--special {
+    box-shadow: none;
+    margin: 0 auto;
     width: auto;
 }
