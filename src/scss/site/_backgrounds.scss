@@ -3,13 +3,21 @@
 }
 
 
+.hero {
+    background-image: url("https://www.amp.halocollar.com/wp-content/uploads/2020/09/HaloHeaderShop.jpg");
+    background-position: center center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+
 .info {
     background: $light-grey;
 }
 
 
 .tables {
-    background-image: url("https://fdb0264d7d6d3e750f80-5dc7f69d18cbbff7d743ef3a1b39cf36.ssl.cf5.rackcdn.com/wp-content/uploads/2020/02/08b.png");
+    background-image: url("https://www.amp.halocollar.com/wp-content/uploads/2020/09/08b.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
